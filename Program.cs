@@ -35,6 +35,26 @@ namespace ListaList
                 }
                 Console.Write("\n");
             }
+           
+
+           
+            Console.WriteLine("Srednie: ");
+
+            for(int i=0;i<5;i++)
+            {
+                Console.Write("[ " + i + " ] ");
+                double srednia=0;
+                double suma=0;
+                for (int j = 0; j < 3; j++)
+                {
+                    suma += lista[i][j];
+                }
+                srednia = suma / 3;
+               
+                
+                Console.Write(srednia + "\n");
+            }
+
             Console.ReadLine();
         }
     }
