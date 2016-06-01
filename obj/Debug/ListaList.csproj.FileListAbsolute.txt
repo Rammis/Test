@@ -1,0 +1,6 @@
+c:\users\johnny\documents\visual studio 2013\Projects\ListaList\ListaList\bin\Debug\ListaList.exe.config
+c:\users\johnny\documents\visual studio 2013\Projects\ListaList\ListaList\bin\Debug\ListaList.exe
+c:\users\johnny\documents\visual studio 2013\Projects\ListaList\ListaList\bin\Debug\ListaList.pdb
+c:\users\johnny\documents\visual studio 2013\Projects\ListaList\ListaList\obj\Debug\ListaList.csprojResolveAssemblyReference.cache
+c:\users\johnny\documents\visual studio 2013\Projects\ListaList\ListaList\obj\Debug\ListaList.exe
+c:\users\johnny\documents\visual studio 2013\Projects\ListaList\ListaList\obj\Debug\ListaList.pdb
